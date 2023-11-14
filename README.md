@@ -1,4 +1,6 @@
-Theme:minima
+Theme:jekyll-theme-minimal
+title: Beedoll's homepage
+Description: Bookmark this is to keep an eye on my Projects updates!
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
